@@ -31,3 +31,27 @@ function calculateResults(e) {
 
     e.preventDefault();
 }
+
+// Show Error
+function showError(error) {
+    //  Create a div
+    const errorDiv = document.createElement('div');
+
+    // Create text node and append to div
+    errorDiv.appendChild(document.createTextNode(error));
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
