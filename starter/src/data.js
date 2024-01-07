@@ -20,7 +20,7 @@ export default [
   {
     id: 4,
     name: 'Sean Walsh',
-    age: 34,
+    age: 36,
     image: 'https://www.course-api.com/images/people/person-4.jpeg',
   },
   {
