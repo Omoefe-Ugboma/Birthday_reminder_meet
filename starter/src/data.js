@@ -14,7 +14,7 @@ export default [
   {
     id: 3,
     name: 'Larry Little',
-    age: 36,
+    age: 32,
     image: 'https://www.course-api.com/images/people/person-3.jpeg',
   },
   {
